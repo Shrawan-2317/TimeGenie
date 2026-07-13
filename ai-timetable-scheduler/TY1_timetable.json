@@ -1,0 +1,296 @@
+[
+    {
+        "day": "Monday",
+        "slot": "08:45-09:40",
+        "subject": "DBMS",
+        "faculty": "Dr. B",
+        "room": "N511"
+    },
+    {
+        "day": "Monday",
+        "slot": "09:40-10:35",
+        "subject": "DBMS",
+        "faculty": "Dr. B",
+        "room": "S403"
+    },
+    {
+        "day": "Monday",
+        "slot": "10:50-11:45",
+        "subject": null,
+        "faculty": null,
+        "room": null
+    },
+    {
+        "day": "Monday",
+        "slot": "11:45-12:40",
+        "subject": "DBMS",
+        "faculty": "Dr. B",
+        "room": "N511"
+    },
+    {
+        "day": "Monday",
+        "slot": "01:40-02:35",
+        "subject": "SE",
+        "faculty": "Dr. C",
+        "room": "N511"
+    },
+    {
+        "day": "Monday",
+        "slot": "02:35-03:30",
+        "subject": "DBMS",
+        "faculty": "Dr. B",
+        "room": "N511"
+    },
+    {
+        "day": "Monday",
+        "slot": "03:40-04:30",
+        "subject": "Mentor Meeting",
+        "faculty": null,
+        "room": null
+    },
+    {
+        "day": "Tuesday",
+        "slot": "08:45-09:40",
+        "subject": "AIML",
+        "faculty": "Dr. H",
+        "room": "N511"
+    },
+    {
+        "day": "Tuesday",
+        "slot": "09:40-10:35",
+        "subject": "AIML",
+        "faculty": "Dr. H",
+        "room": "S403"
+    },
+    {
+        "day": "Tuesday",
+        "slot": "10:50-11:45",
+        "subject": "TOC",
+        "faculty": "Dr. F",
+        "room": "N511"
+    },
+    {
+        "day": "Tuesday",
+        "slot": "11:45-12:40",
+        "subject": "DBMS",
+        "faculty": "Dr. B",
+        "room": "S403"
+    },
+    {
+        "day": "Tuesday",
+        "slot": "01:40-02:35",
+        "subject": null,
+        "faculty": null,
+        "room": null
+    },
+    {
+        "day": "Tuesday",
+        "slot": "02:35-03:30",
+        "subject": "AIML",
+        "faculty": "Dr. G",
+        "room": "S403"
+    },
+    {
+        "day": "Tuesday",
+        "slot": "03:40-04:30",
+        "subject": null,
+        "faculty": null,
+        "room": null
+    },
+    {
+        "day": "Wednesday",
+        "slot": "08:45-09:40",
+        "subject": "Mentor Meeting",
+        "faculty": null,
+        "room": "Online"
+    },
+    {
+        "day": "Wednesday",
+        "slot": "09:40-10:35",
+        "subject": "Mentor Meeting",
+        "faculty": null,
+        "room": "Online"
+    },
+    {
+        "day": "Wednesday",
+        "slot": "10:50-11:45",
+        "subject": "Mentor Meeting",
+        "faculty": null,
+        "room": "Online"
+    },
+    {
+        "day": "Wednesday",
+        "slot": "11:45-12:40",
+        "subject": "Mentor Meeting",
+        "faculty": null,
+        "room": "Online"
+    },
+    {
+        "day": "Wednesday",
+        "slot": "01:40-02:35",
+        "subject": "Mentor Meeting",
+        "faculty": null,
+        "room": "Online"
+    },
+    {
+        "day": "Wednesday",
+        "slot": "02:35-03:30",
+        "subject": "Mentor Meeting",
+        "faculty": null,
+        "room": "Online"
+    },
+    {
+        "day": "Wednesday",
+        "slot": "03:40-04:30",
+        "subject": "Mentor Meeting",
+        "faculty": null,
+        "room": "Online"
+    },
+    {
+        "day": "Thursday",
+        "slot": "08:45-09:40",
+        "subject": "TOC",
+        "faculty": "Dr. F",
+        "room": "N511"
+    },
+    {
+        "day": "Thursday",
+        "slot": "09:40-10:35",
+        "subject": null,
+        "faculty": null,
+        "room": null
+    },
+    {
+        "day": "Thursday",
+        "slot": "10:50-11:45",
+        "subject": "CN",
+        "faculty": "Dr. E",
+        "room": "S403"
+    },
+    {
+        "day": "Thursday",
+        "slot": "11:45-12:40",
+        "subject": "SE",
+        "faculty": "Dr. C",
+        "room": "N511"
+    },
+    {
+        "day": "Thursday",
+        "slot": "01:40-02:35",
+        "subject": "SE",
+        "faculty": "Dr. D",
+        "room": "S403"
+    },
+    {
+        "day": "Thursday",
+        "slot": "02:35-03:30",
+        "subject": "DBMS",
+        "faculty": "Dr. B",
+        "room": "S403"
+    },
+    {
+        "day": "Thursday",
+        "slot": "03:40-04:30",
+        "subject": "SE",
+        "faculty": "Dr. D",
+        "room": "S403"
+    },
+    {
+        "day": "Friday",
+        "slot": "08:45-09:40",
+        "subject": "DBMS",
+        "faculty": "Dr. B",
+        "room": "S403"
+    },
+    {
+        "day": "Friday",
+        "slot": "09:40-10:35",
+        "subject": "AIML",
+        "faculty": "Dr. H",
+        "room": "N511"
+    },
+    {
+        "day": "Friday",
+        "slot": "10:50-11:45",
+        "subject": "AIML",
+        "faculty": "Dr. H",
+        "room": "N511"
+    },
+    {
+        "day": "Friday",
+        "slot": "11:45-12:40",
+        "subject": "CN",
+        "faculty": "Dr. E",
+        "room": "N511"
+    },
+    {
+        "day": "Friday",
+        "slot": "01:40-02:35",
+        "subject": null,
+        "faculty": null,
+        "room": null
+    },
+    {
+        "day": "Friday",
+        "slot": "02:35-03:30",
+        "subject": "CN",
+        "faculty": "Dr. E",
+        "room": "N511"
+    },
+    {
+        "day": "Friday",
+        "slot": "03:40-04:30",
+        "subject": "Mentor Meeting",
+        "faculty": null,
+        "room": null
+    },
+    {
+        "day": "Saturday",
+        "slot": "08:45-09:40",
+        "subject": "Mentor Meeting",
+        "faculty": null,
+        "room": null
+    },
+    {
+        "day": "Saturday",
+        "slot": "09:40-10:35",
+        "subject": "Mentor Meeting",
+        "faculty": null,
+        "room": null
+    },
+    {
+        "day": "Saturday",
+        "slot": "10:50-11:45",
+        "subject": "CN",
+        "faculty": "Dr. E",
+        "room": "S403"
+    },
+    {
+        "day": "Saturday",
+        "slot": "11:45-12:40",
+        "subject": "TOC",
+        "faculty": "Dr. F",
+        "room": "S403"
+    },
+    {
+        "day": "Saturday",
+        "slot": "01:40-02:35",
+        "subject": null,
+        "faculty": null,
+        "room": null
+    },
+    {
+        "day": "Saturday",
+        "slot": "02:35-03:30",
+        "subject": "SE",
+        "faculty": "Dr. D",
+        "room": "S403"
+    },
+    {
+        "day": "Saturday",
+        "slot": "03:40-04:30",
+        "subject": "CN",
+        "faculty": "Dr. E",
+        "room": "N511"
+    }
+]

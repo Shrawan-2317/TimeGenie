@@ -1,0 +1,3012 @@
+{
+    "CSE_TY1": [
+        {
+            "day": "Monday",
+            "slot": "08:45-09:40",
+            "subject": "SE",
+            "faculty": "Dr. C",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:50-11:45",
+            "subject": "DBMS",
+            "faculty": "Dr. A",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "11:45-12:40",
+            "subject": "TOC",
+            "faculty": "Dr. G",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "01:40-02:35",
+            "subject": "CN",
+            "faculty": "Dr. E",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Mentor Meeting",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "08:45-09:40",
+            "subject": "CN",
+            "faculty": "Dr. F",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "11:45-12:40",
+            "subject": "SE",
+            "faculty": "Dr. C",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "02:35-03:30",
+            "subject": "DBMS",
+            "faculty": "Dr. B",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "08:45-09:40",
+            "subject": "SE",
+            "faculty": "Dr. C",
+            "room": "Online",
+            "label": null,
+            "type": "online",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "01:40-02:35",
+            "subject": "SE",
+            "faculty": "Dr. C",
+            "room": "Online",
+            "label": null,
+            "type": "online",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "08:45-09:40",
+            "subject": "AIML",
+            "faculty": "Dr. I",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "09:40-10:35",
+            "subject": "TOC",
+            "faculty": "Dr. G",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:50-11:45",
+            "subject": "AIML",
+            "faculty": "Dr. H",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "01:40-02:35",
+            "subject": "AIML",
+            "faculty": "Dr. I",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:40-04:30",
+            "subject": "AIML",
+            "faculty": "Dr. I",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "09:40-10:35",
+            "subject": "DBMS",
+            "faculty": "Dr. B",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:50-11:45",
+            "subject": "DBMS",
+            "faculty": "Dr. B",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "11:45-12:40",
+            "subject": "TOC",
+            "faculty": "Dr. G",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PAL",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:50-11:45",
+            "subject": "CN",
+            "faculty": "Dr. E",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        }
+    ],
+    "CSE_TY2": [
+        {
+            "day": "Monday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:50-11:45",
+            "subject": "TOC",
+            "faculty": "Dr. G",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "11:45-12:40",
+            "subject": "TOC",
+            "faculty": "Dr. G",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "01:40-02:35",
+            "subject": "AIML",
+            "faculty": "Dr. I",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "02:35-03:30",
+            "subject": "DBMS",
+            "faculty": "Dr. B",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Mentor Meeting",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "08:45-09:40",
+            "subject": "AIML",
+            "faculty": "Dr. H",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "09:40-10:35",
+            "subject": "DBMS",
+            "faculty": "Dr. A",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "01:40-02:35",
+            "subject": "SE",
+            "faculty": "Dr. D",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "09:40-10:35",
+            "subject": "DBMS",
+            "faculty": "Dr. B",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:50-11:45",
+            "subject": "AIML",
+            "faculty": "Dr. H",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "11:45-12:40",
+            "subject": "SE",
+            "faculty": "Dr. D",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "08:45-09:40",
+            "subject": "SE",
+            "faculty": "Dr. C",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "09:40-10:35",
+            "subject": "CN",
+            "faculty": "Dr. E",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "02:35-03:30",
+            "subject": "SE",
+            "faculty": "Dr. D",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "09:40-10:35",
+            "subject": "CN",
+            "faculty": "Dr. E",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "11:45-12:40",
+            "subject": "DBMS",
+            "faculty": "Dr. A",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "02:35-03:30",
+            "subject": "AIML",
+            "faculty": "Dr. H",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PAL",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "01:40-02:35",
+            "subject": "TOC",
+            "faculty": "Dr. G",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "02:35-03:30",
+            "subject": "CN",
+            "faculty": "Dr. F",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        }
+    ],
+    "IT_TY1": [
+        {
+            "day": "Monday",
+            "slot": "08:45-09:40",
+            "subject": "CN",
+            "faculty": "Dr. E",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "11:45-12:40",
+            "subject": "SE",
+            "faculty": "Dr. D",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "01:40-02:35",
+            "subject": "CN",
+            "faculty": "Dr. F",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "02:35-03:30",
+            "subject": "DBMS",
+            "faculty": "Dr. B",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Mentor Meeting",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "08:45-09:40",
+            "subject": "DBMS",
+            "faculty": "Dr. A",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "11:45-12:40",
+            "subject": "OS",
+            "faculty": "Dr. Jane Smith",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "02:35-03:30",
+            "subject": "CN",
+            "faculty": "Dr. F",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "08:45-09:40",
+            "subject": "AIML",
+            "faculty": "Dr. H",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "11:45-12:40",
+            "subject": "DBMS",
+            "faculty": "Dr. A",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "01:40-02:35",
+            "subject": "AIML",
+            "faculty": "Dr. H",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "02:35-03:30",
+            "subject": "AIML",
+            "faculty": "Dr. I",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "08:45-09:40",
+            "subject": "SE",
+            "faculty": "Dr. D",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "09:40-10:35",
+            "subject": "OS",
+            "faculty": "Dr. Jane Smith",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "02:35-03:30",
+            "subject": "SE",
+            "faculty": "Dr. C",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:40-04:30",
+            "subject": "AIML",
+            "faculty": "Dr. I",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "08:45-09:40",
+            "subject": "SE",
+            "faculty": "Dr. D",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "09:40-10:35",
+            "subject": "DBMS",
+            "faculty": "Dr. A",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "11:45-12:40",
+            "subject": "OS",
+            "faculty": "Dr. Jane Smith",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PAL",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        }
+    ],
+    "AI_TY1": [
+        {
+            "day": "Monday",
+            "slot": "08:45-09:40",
+            "subject": "DBMS",
+            "faculty": "Dr. A",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:50-11:45",
+            "subject": "SE",
+            "faculty": "Dr. C",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "01:40-02:35",
+            "subject": "SE",
+            "faculty": "Dr. D",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Mentor Meeting",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "09:40-10:35",
+            "subject": "SE",
+            "faculty": "Dr. D",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "11:45-12:40",
+            "subject": "CN",
+            "faculty": "Dr. F",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "01:40-02:35",
+            "subject": "AIML",
+            "faculty": "Dr. I",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "02:35-03:30",
+            "subject": "SE",
+            "faculty": "Dr. D",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "02:35-03:30",
+            "subject": "AIML",
+            "faculty": "Dr. H",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:40-04:30",
+            "subject": "CN",
+            "faculty": "Dr. F",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "11:45-12:40",
+            "subject": "DBMS",
+            "faculty": "Dr. A",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "01:40-02:35",
+            "subject": "DBMS",
+            "faculty": "Dr. A",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:40-04:30",
+            "subject": "CN",
+            "faculty": "Dr. E",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:50-11:45",
+            "subject": "DBMS",
+            "faculty": "Dr. B",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "02:35-03:30",
+            "subject": "AIML",
+            "faculty": "Dr. I",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:40-04:30",
+            "subject": "AIML",
+            "faculty": "Dr. H",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PAL",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "02:35-03:30",
+            "subject": "DL",
+            "faculty": "Dr. K",
+            "room": "LAB2",
+            "label": null,
+            "type": "regular",
+            "subjectType": "lab"
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        }
+    ],
+    "ENTC_TY1": [
+        {
+            "day": "Monday",
+            "slot": "08:45-09:40",
+            "subject": "AIML",
+            "faculty": "Dr. H",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Mentor Meeting",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:40-04:30",
+            "subject": "SE",
+            "faculty": "Dr. C",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "08:45-09:40",
+            "subject": "AIML",
+            "faculty": "Dr. I",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "09:40-10:35",
+            "subject": "TOC",
+            "faculty": "Dr. G",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:50-11:45",
+            "subject": "SE",
+            "faculty": "Dr. D",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "11:45-12:40",
+            "subject": "TOC",
+            "faculty": "Dr. G",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:40-04:30",
+            "subject": "TOC",
+            "faculty": "Dr. G",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "08:45-09:40",
+            "subject": "DSD",
+            "faculty": "Dr. L",
+            "room": "LAB1",
+            "label": null,
+            "type": "regular",
+            "subjectType": "lab"
+        },
+        {
+            "day": "Thursday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "11:45-12:40",
+            "subject": "SE",
+            "faculty": "Dr. C",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "01:40-02:35",
+            "subject": "CN",
+            "faculty": "Dr. E",
+            "room": "S404",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:40-04:30",
+            "subject": "SE",
+            "faculty": "Dr. C",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "09:40-10:35",
+            "subject": "CN",
+            "faculty": "Dr. F",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "01:40-02:35",
+            "subject": "AIML",
+            "faculty": "Dr. H",
+            "room": "N512",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:40-04:30",
+            "subject": "CN",
+            "faculty": "Dr. F",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PAL",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "01:40-02:35",
+            "subject": "AIML",
+            "faculty": "Dr. H",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "02:35-03:30",
+            "subject": "DSD",
+            "faculty": "Dr. L",
+            "room": "LAB2",
+            "label": null,
+            "type": "regular",
+            "subjectType": "lab"
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        }
+    ]
+}

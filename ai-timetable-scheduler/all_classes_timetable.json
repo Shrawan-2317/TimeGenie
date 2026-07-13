@@ -1,0 +1,4818 @@
+{
+    "CSE_TY1": [
+        {
+            "day": "Monday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "02:35-03:30",
+            "subject": "PE_I_CF",
+            "faculty": "Prof. Dr. Reena Gunjan",
+            "room": "Online",
+            "label": null,
+            "type": "online",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Mentor Meeting",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "08:45-09:40",
+            "subject": "PE_I_HCI",
+            "faculty": "Prof. Amit Uttarkar",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "01:40-02:35",
+            "subject": "PE_I_HCI",
+            "faculty": "Prof. Amit Uttarkar",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "02:35-03:30",
+            "subject": "AIML",
+            "faculty": "Prof. Dr. Rajendra Pawar",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:40-04:30",
+            "subject": "SCIL_PS",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "09:40-10:35",
+            "subject": "AD",
+            "faculty": "Prof. Dr. Manisha Galphade",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "02:35-03:30",
+            "subject": "AIML",
+            "faculty": "Prof. Dr. Rajendra Pawar",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "09:40-10:35",
+            "subject": "IDSL",
+            "faculty": "Prof. Dr. Umar M Mulani",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "lab"
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:50-11:45",
+            "subject": "PE_I_CF",
+            "faculty": "Prof. Dr. Reena Gunjan",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "11:45-12:40",
+            "subject": "AIML",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "01:40-02:35",
+            "subject": "PE_I_HCI",
+            "faculty": "Prof. Amit Uttarkar",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "02:35-03:30",
+            "subject": "IDSL",
+            "faculty": "Prof. Dr. Umar M Mulani",
+            "room": "N511",
+            "label": null,
+            "type": "regular",
+            "subjectType": "lab"
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:40-04:30",
+            "subject": "PE_I_CF",
+            "faculty": "Prof. Dr. Reena Gunjan",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "08:45-09:40",
+            "subject": "SCIL_APT",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Friday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "11:45-12:40",
+            "subject": "AD",
+            "faculty": "Prof. Revati Raspayle",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "01:40-02:35",
+            "subject": "AIML",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Doubt Solving",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:40-04:30",
+            "subject": "AD",
+            "faculty": "Prof. Revati Raspayle",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PAL",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "02:35-03:30",
+            "subject": "AD",
+            "faculty": "Prof. Dr. Manisha Galphade",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        }
+    ],
+    "CSE_TY2": [
+        {
+            "day": "Monday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:50-11:45",
+            "subject": "PE_I_CF",
+            "faculty": "Prof. Dr. Reena Gunjan",
+            "room": "Online",
+            "label": null,
+            "type": "online",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "02:35-03:30",
+            "subject": "PE_I_HCI",
+            "faculty": "Prof. Amit Uttarkar",
+            "room": "Online",
+            "label": null,
+            "type": "online",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Mentor Meeting",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "08:45-09:40",
+            "subject": "AIML",
+            "faculty": "Prof. Dr. Rajendra Pawar",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "11:45-12:40",
+            "subject": "AIML",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "02:35-03:30",
+            "subject": "AIML",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "09:40-10:35",
+            "subject": "AD",
+            "faculty": "Prof. Dr. Manisha Galphade",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "11:45-12:40",
+            "subject": "PE_I_HCI",
+            "faculty": "Prof. Amit Uttarkar",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "02:35-03:30",
+            "subject": "PE_I_CF",
+            "faculty": "Prof. Dr. Reena Gunjan",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "09:40-10:35",
+            "subject": "AIML",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:50-11:45",
+            "subject": "AD",
+            "faculty": "Prof. Dr. Anant Kaulage",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "01:40-02:35",
+            "subject": "PE_I_HCI",
+            "faculty": "Prof. Amit Uttarkar",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "02:35-03:30",
+            "subject": "AD",
+            "faculty": "Prof. Dr. Anant Kaulage",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "09:40-10:35",
+            "subject": "AD",
+            "faculty": "Prof. Dr. Manisha Galphade",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:50-11:45",
+            "subject": "PE_I_CF",
+            "faculty": "Prof. Dr. Reena Gunjan",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "01:40-02:35",
+            "subject": "SCIL_APT",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Friday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Doubt Solving",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PAL",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:50-11:45",
+            "subject": "SCIL_PS",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Saturday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        }
+    ],
+    "CSE_TY3": [
+        {
+            "day": "Monday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "09:40-10:35",
+            "subject": "AD",
+            "faculty": "Prof. Dr. Anant Kaulage",
+            "room": "Online",
+            "label": null,
+            "type": "online",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:50-11:45",
+            "subject": "PE_I_CF",
+            "faculty": "Prof. Dr. Reena Gunjan",
+            "room": "Online",
+            "label": null,
+            "type": "online",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "01:40-02:35",
+            "subject": "AIML",
+            "faculty": "Prof. Swati Powar",
+            "room": "Online",
+            "label": null,
+            "type": "online",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Mentor Meeting",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "02:35-03:30",
+            "subject": "AIML",
+            "faculty": "Prof. Swati Powar",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:40-04:30",
+            "subject": "AD",
+            "faculty": "Prof. Revati Raspayle",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "11:45-12:40",
+            "subject": "SCIL_PS",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "01:40-02:35",
+            "subject": "AIML",
+            "faculty": "Prof. Swati Powar",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:40-04:30",
+            "subject": "AIML",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "08:45-09:40",
+            "subject": "AD",
+            "faculty": "Prof. Dr. Manisha Galphade",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "09:40-10:35",
+            "subject": "AD",
+            "faculty": "Prof. Revati Raspayle",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:50-11:45",
+            "subject": "PE_I_HCI",
+            "faculty": "Prof. Amit Uttarkar",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "11:45-12:40",
+            "subject": "SCIL_APT",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Thursday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:40-04:30",
+            "subject": "PE_I_CF",
+            "faculty": "Prof. Dr. Reena Gunjan",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "09:40-10:35",
+            "subject": "PE_I_CF",
+            "faculty": "Prof. Dr. Reena Gunjan",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Doubt Solving",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:40-04:30",
+            "subject": "PE_I_HCI",
+            "faculty": "Prof. Amit Uttarkar",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PAL",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:40-04:30",
+            "subject": "PE_I_HCI",
+            "faculty": "Prof. Amit Uttarkar",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        }
+    ],
+    "CSE_TY4": [
+        {
+            "day": "Monday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "09:40-10:35",
+            "subject": "PE_I_CF",
+            "faculty": "Prof. Dr. Reena Gunjan",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "11:45-12:40",
+            "subject": "IDSL",
+            "faculty": "Prof. Dr. Umar M Mulani",
+            "room": "N513",
+            "label": null,
+            "type": "regular",
+            "subjectType": "lab"
+        },
+        {
+            "day": "Monday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "02:35-03:30",
+            "subject": "IDSL",
+            "faculty": "Prof. Dr. Umar M Mulani",
+            "room": "N513",
+            "label": null,
+            "type": "regular",
+            "subjectType": "lab"
+        },
+        {
+            "day": "Monday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Mentor Meeting",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:40-04:30",
+            "subject": "AD",
+            "faculty": "Prof. Revati Raspayle",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "09:40-10:35",
+            "subject": "AIML",
+            "faculty": "Prof. Swati Powar",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:50-11:45",
+            "subject": "SCIL_PS",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "11:45-12:40",
+            "subject": "PE_I_CF",
+            "faculty": "Prof. Dr. Reena Gunjan",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "02:35-03:30",
+            "subject": "PE_I_HCI",
+            "faculty": "Prof. Amit Uttarkar",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:40-04:30",
+            "subject": "AD",
+            "faculty": "Prof. Revati Raspayle",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "08:45-09:40",
+            "subject": "AD",
+            "faculty": "Prof. Dr. Manisha Galphade",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "09:40-10:35",
+            "subject": "AIML",
+            "faculty": "Prof. Dr. Rajendra Pawar",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:50-11:45",
+            "subject": "SCIL_APT",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Thursday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "08:45-09:40",
+            "subject": "PE_I_CF",
+            "faculty": "Prof. Dr. Reena Gunjan",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "09:40-10:35",
+            "subject": "AIML",
+            "faculty": "Prof. Dr. Rajendra Pawar",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:50-11:45",
+            "subject": "AIML",
+            "faculty": "Prof. Dr. Rajendra Pawar",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Doubt Solving",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PAL",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "01:40-02:35",
+            "subject": "AD",
+            "faculty": "Prof. Dr. Anant Kaulage",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "02:35-03:30",
+            "subject": "PE_I_HCI",
+            "faculty": "Prof. Amit Uttarkar",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:40-04:30",
+            "subject": "PE_I_HCI",
+            "faculty": "Prof. Amit Uttarkar",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        }
+    ],
+    "AIA_TY7": [
+        {
+            "day": "Monday",
+            "slot": "08:45-09:40",
+            "subject": "ML",
+            "faculty": "Prof. Dr. Nilima Vijayrao Kulkarni",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "09:40-10:35",
+            "subject": "PE_I_IoT",
+            "faculty": "Prof. Ravi Kumar",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:50-11:45",
+            "subject": "ML",
+            "faculty": "Prof. Dr. Nilima Vijayrao Kulkarni",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "11:45-12:40",
+            "subject": "PE_I_ASD",
+            "faculty": "Prof. Deepika Singh",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "01:40-02:35",
+            "subject": "PE_I_ASD",
+            "faculty": "Prof. Deepika Singh",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "02:35-03:30",
+            "subject": "ML",
+            "faculty": "Prof. Dr. Nilima Vijayrao Kulkarni",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Mentor Meeting",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "08:45-09:40",
+            "subject": "PE_I_ASD",
+            "faculty": "Prof. Deepika Singh",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "09:40-10:35",
+            "subject": "DMA",
+            "faculty": "Prof. Thanekar Sachin",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "11:45-12:40",
+            "subject": "DMA",
+            "faculty": "Prof. Thanekar Sachin",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "01:40-02:35",
+            "subject": "PE_I_IoT",
+            "faculty": "Prof. Ravi Kumar",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:50-11:45",
+            "subject": "DMA",
+            "faculty": "Prof. Thanekar Sachin",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "11:45-12:40",
+            "subject": "SCIL_APT",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "01:40-02:35",
+            "subject": "PE_I_IoT",
+            "faculty": "Prof. Ravi Kumar",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:40-04:30",
+            "subject": "ATCM",
+            "faculty": "Prof. Dr. Tejaswini Bhosale",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "08:45-09:40",
+            "subject": "DMA",
+            "faculty": "Prof. Thanekar Sachin",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:50-11:45",
+            "subject": "ATCM",
+            "faculty": "Prof. Dr. Tejaswini Bhosale",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "11:45-12:40",
+            "subject": "SCIL_PS",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Friday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "01:40-02:35",
+            "subject": "ATCM",
+            "faculty": "Prof. Dr. Tejaswini Bhosale",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Doubt Solving",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PAL",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "02:35-03:30",
+            "subject": "ML",
+            "faculty": "Prof. Dr. Nilima Vijayrao Kulkarni",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        }
+    ],
+    "CC_TY16": [
+        {
+            "day": "Monday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "09:40-10:35",
+            "subject": "PE_I_CIS",
+            "faculty": "Prof. Smita Gumaste",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:50-11:45",
+            "subject": "SCIL_APT",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Monday",
+            "slot": "11:45-12:40",
+            "subject": "PE_I_CIS",
+            "faculty": "Prof. Smita Gumaste",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "01:40-02:35",
+            "subject": "CF",
+            "faculty": "Prof. Dr. Rajani Sangappa Sajjan",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Monday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Mentor Meeting",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:50-11:45",
+            "subject": "AWTL",
+            "faculty": "Prof. Ashish Patel",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:40-04:30",
+            "subject": "AWTL",
+            "faculty": "Prof. Ashish Patel",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:50-11:45",
+            "subject": "DC",
+            "faculty": "Prof. Ruchita Sharma",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "11:45-12:40",
+            "subject": "PE_I_AIML",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "09:40-10:35",
+            "subject": "AWTL",
+            "faculty": "Prof. Ashish Patel",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:50-11:45",
+            "subject": "PE_I_AIML",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "01:40-02:35",
+            "subject": "CF",
+            "faculty": "Prof. Dr. Rajani Sangappa Sajjan",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "02:35-03:30",
+            "subject": "PE_I_CIS",
+            "faculty": "Prof. Smita Gumaste",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "08:45-09:40",
+            "subject": "DC",
+            "faculty": "Prof. Ruchita Sharma",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "01:40-02:35",
+            "subject": "SCIL_PS",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Friday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Doubt Solving",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:40-04:30",
+            "subject": "PE_I_AIML",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PAL",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "11:45-12:40",
+            "subject": "DC",
+            "faculty": "Prof. Ruchita Sharma",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "02:35-03:30",
+            "subject": "CF",
+            "faculty": "Prof. Dr. Rajani Sangappa Sajjan",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        }
+    ],
+    "BDCE_TY20": [
+        {
+            "day": "Monday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Mentor Meeting",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "09:40-10:35",
+            "subject": "CDE",
+            "faculty": "Prof. Vilas Khedekar",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:50-11:45",
+            "subject": "PE_I_AGE",
+            "faculty": "Prof. Nikhil Jadhav",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "11:45-12:40",
+            "subject": "DS",
+            "faculty": "Prof. Dr. Ayesha Butalia",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:40-04:30",
+            "subject": "PE_I_AGE",
+            "faculty": "Prof. Nikhil Jadhav",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "09:40-10:35",
+            "subject": "CDE",
+            "faculty": "Prof. Vilas Khedekar",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "02:35-03:30",
+            "subject": "PE_I_AIML",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "11:45-12:40",
+            "subject": "SCIL_APT",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Thursday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "01:40-02:35",
+            "subject": "DS",
+            "faculty": "Prof. Dr. Ayesha Butalia",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "02:35-03:30",
+            "subject": "PE_I_AIML",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:50-11:45",
+            "subject": "SCIL_PS",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Friday",
+            "slot": "11:45-12:40",
+            "subject": "DS",
+            "faculty": "Prof. Dr. Ayesha Butalia",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Doubt Solving",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:40-04:30",
+            "subject": "CDE",
+            "faculty": "Prof. Vilas Khedekar",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PAL",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "11:45-12:40",
+            "subject": "PE_I_AGE",
+            "faculty": "Prof. Nikhil Jadhav",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "02:35-03:30",
+            "subject": "PE_I_AIML",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        }
+    ],
+    "CSF_TY21": [
+        {
+            "day": "Monday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Monday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Mentor Meeting",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "10:50-11:45",
+            "subject": "CF",
+            "faculty": "Prof. Dr. Rajani Sangappa Sajjan",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "11:45-12:40",
+            "subject": "PE_I_MLCS",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Tuesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Tuesday",
+            "slot": "03:40-04:30",
+            "subject": "PE_I_WMS",
+            "faculty": "Prof. Sushant Shirbhate",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "11:45-12:40",
+            "subject": "CIS",
+            "faculty": "Prof. Smita Gumaste",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Wednesday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Wednesday",
+            "slot": "03:40-04:30",
+            "subject": "PE_I_WMS",
+            "faculty": "Prof. Sushant Shirbhate",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "01:40-02:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "02:35-03:30",
+            "subject": "CF",
+            "faculty": "Prof. Dr. Rajani Sangappa Sajjan",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Thursday",
+            "slot": "03:40-04:30",
+            "subject": "CF",
+            "faculty": "Prof. Dr. Rajani Sangappa Sajjan",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "08:45-09:40",
+            "subject": "SCIL_PS",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S516",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Friday",
+            "slot": "09:40-10:35",
+            "subject": "SCIL_APT",
+            "faculty": "Prof. Kiran Shinde",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "seminar"
+        },
+        {
+            "day": "Friday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "10:50-11:45",
+            "subject": "PE_I_MLCS",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S420",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "11:45-12:40",
+            "subject": "CIS",
+            "faculty": "Prof. Smita Gumaste",
+            "room": "S410",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "01:40-02:35",
+            "subject": "CIS",
+            "faculty": "Prof. Arun Ghandat",
+            "room": "S111",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Friday",
+            "slot": "02:35-03:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Doubt Solving",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Friday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "08:45-09:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PBL Review",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "09:40-10:35",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "PAL",
+            "type": "special",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:35-10:50",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "10:50-11:45",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "11:45-12:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "12:40-01:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Lunch Break",
+            "type": "break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "01:40-02:35",
+            "subject": "PE_I_WMS",
+            "faculty": "Prof. Sushant Shirbhate",
+            "room": "S403",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "02:35-03:30",
+            "subject": "PE_I_MLCS",
+            "faculty": "Prof. Dr. Suvarna Pawar",
+            "room": "S621",
+            "label": null,
+            "type": "regular",
+            "subjectType": "theory"
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:30-03:40",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": "Short Break",
+            "type": "short_break",
+            "subjectType": null
+        },
+        {
+            "day": "Saturday",
+            "slot": "03:40-04:30",
+            "subject": null,
+            "faculty": null,
+            "room": null,
+            "label": null,
+            "type": "empty",
+            "subjectType": null
+        }
+    ]
+}

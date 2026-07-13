@@ -1,0 +1,173 @@
+{
+    "classes": {
+        "TY1": {
+            "name": "Third Year Section 1",
+            "subjects": [
+                "DBMS",
+                "SE",
+                "CN",
+                "TOC",
+                "AIML"
+            ],
+            "class_teacher": "Dr. John Doe",
+            "strength": 60
+        },
+        "TY2": {
+            "name": "Third Year Section 2",
+            "subjects": [
+                "DBMS",
+                "SE",
+                "CN",
+                "TOC",
+                "AIML"
+            ],
+            "class_teacher": "Dr. Jane Smith",
+            "strength": 60
+        }
+    },
+    "subjects": {
+        "DBMS": {
+            "name": "Database Management Systems",
+            "code": "DBMS",
+            "type": "theory",
+            "hours_per_week": 4,
+            "faculties": [
+                "Dr. A",
+                "Dr. B"
+            ],
+            "requires_lab": true
+        },
+        "SE": {
+            "name": "Software Engineering",
+            "code": "SE",
+            "type": "theory",
+            "hours_per_week": 4,
+            "faculties": [
+                "Dr. C",
+                "Dr. D"
+            ],
+            "requires_lab": false
+        },
+        "CN": {
+            "name": "Computer Networks",
+            "code": "CN",
+            "type": "theory",
+            "hours_per_week": 3,
+            "faculties": [
+                "Dr. E"
+            ],
+            "requires_lab": true
+        },
+        "TOC": {
+            "name": "Theory of Computation",
+            "code": "TOC",
+            "type": "theory",
+            "hours_per_week": 3,
+            "faculties": [
+                "Dr. F"
+            ],
+            "requires_lab": false
+        },
+        "AIML": {
+            "name": "Artificial Intelligence & Machine Learning",
+            "code": "AIML",
+            "type": "theory",
+            "hours_per_week": 4,
+            "faculties": [
+                "Dr. G",
+                "Dr. H"
+            ],
+            "requires_lab": true
+        },
+        "DBMS_LAB": {
+            "name": "DBMS Laboratory",
+            "code": "DBMS_LAB",
+            "type": "lab",
+            "hours_per_week": 2,
+            "faculties": [
+                "Dr. A",
+                "Dr. B"
+            ],
+            "duration": 2
+        }
+    },
+    "faculties": {
+        "Dr. A": {
+            "name": "Dr. Alice Anderson",
+            "subjects": [
+                "DBMS",
+                "DBMS_LAB"
+            ],
+            "max_hours_per_day": 6,
+            "unavailable_slots": []
+        },
+        "Dr. B": {
+            "name": "Dr. Bob Brown",
+            "subjects": [
+                "DBMS",
+                "DBMS_LAB"
+            ],
+            "max_hours_per_day": 6,
+            "unavailable_slots": []
+        }
+    },
+    "rooms": {
+        "S403": {
+            "type": "classroom",
+            "capacity": 60,
+            "facilities": [
+                "projector",
+                "whiteboard"
+            ]
+        },
+        "N511": {
+            "type": "classroom",
+            "capacity": 60,
+            "facilities": [
+                "projector",
+                "whiteboard"
+            ]
+        },
+        "LAB1": {
+            "type": "lab",
+            "capacity": 30,
+            "facilities": [
+                "computers",
+                "projector"
+            ]
+        },
+        "LAB2": {
+            "type": "lab",
+            "capacity": 30,
+            "facilities": [
+                "computers",
+                "projector"
+            ]
+        }
+    },
+    "constraints": {
+        "online_days": {
+            "Wednesday": [
+                "TY1"
+            ],
+            "Thursday": [
+                "TY2"
+            ]
+        },
+        "special_slots": {
+            "Monday": {
+                "03:40-04:30": "Mentor Meeting"
+            },
+            "Saturday": {
+                "08:45-09:40": "PBL Review",
+                "09:40-10:35": "PAL"
+            },
+            "Friday": {
+                "03:40-04:30": "NPTEL"
+            }
+        },
+        "max_hours_per_day": 7,
+        "max_consecutive_theory": 3,
+        "lunch_break": "12:40-01:40"
+    }
+}

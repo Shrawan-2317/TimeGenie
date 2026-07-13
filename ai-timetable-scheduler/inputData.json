@@ -1,0 +1,498 @@
+{
+  "classes": {
+    "CSE_TY1": {
+      "name": "Computer Science TY1 CORE-1",
+      "subjects": ["AIML", "AD", "PE_I_HCI", "PE_I_CF", "IDSL", "SCIL_PS", "SCIL_APT"],
+      "class_teacher": "Prof. Revati Raspayle",
+      "strength": 60
+    },
+    "CSE_TY2": {
+      "name": "Computer Science TY2 CORE-2",
+      "subjects": ["AIML", "AD", "PE_I_HCI", "PE_I_CF", "IDSL", "SCIL_PS", "SCIL_APT"],
+      "class_teacher": "Prof. Sumedha Ayachit",
+      "strength": 55
+    },
+    "CSE_TY3": {
+      "name": "Computer Science TY3 CORE-3",
+      "subjects": ["AIML", "AD", "PE_I_HCI", "PE_I_CF", "IDSL", "SCIL_PS", "SCIL_APT"],
+      "class_teacher": "Prof. Swati Powar",
+      "strength": 58
+    },
+    "CSE_TY4": {
+      "name": "Computer Science TY4 CORE-4",
+      "subjects": ["AIML", "AD", "PE_I_HCI", "PE_I_CF", "IDSL", "SCIL_PS", "SCIL_APT"],
+      "class_teacher": "Prof. Dr. Anant Kaulage",
+      "strength": 52
+    },
+    "AIA_TY7": {
+      "name": "Artificial Intelligence A1",
+      "subjects": ["ML", "DMA", "ATCM", "PE_I_IoT", "PE_I_ASD", "SCIL_PS", "SCIL_APT"],
+      "class_teacher": "Prof. Dr. Tejaswini Bhosale",
+      "strength": 45
+    },
+    "CC_TY16": {
+      "name": "Cloud Computing CC1",
+      "subjects": ["CF", "DC", "PE_I_CIS", "PE_I_AIML", "AWTL", "SCIL_PS", "SCIL_APT"],
+      "class_teacher": "Prof. Arun Ghandat",
+      "strength": 50
+    },
+    "BDCE_TY20": {
+      "name": "Big Data Cloud Engineering",
+      "subjects": ["DS", "CDE", "PE_I_AIML", "PE_I_AGE", "SCIL_PS", "SCIL_APT"],
+      "class_teacher": "Prof. Vilas Khedekar",
+      "strength": 48
+    },
+    "CSF_TY21": {
+      "name": "Cyber Security & Forensics CSF-1",
+      "subjects": ["CIS", "CF", "PE_I_WMS", "PE_I_MLCS", "KLAL", "SCIL_PS", "SCIL_APT"],
+      "class_teacher": "Prof. Sushant Shirbhate",
+      "strength": 46
+    }
+  },
+  "subjects": {
+    "AIML": {
+      "name": "Artificial Intelligence and Machine Learning",
+      "code": "AIML",
+      "type": "theory",
+      "hours_per_week": 4,
+      "faculties": ["Prof. Dr. Suvarna Pawar", "Prof. Dr. Rajendra Pawar", "Prof. Swati Powar"],
+      "requires_lab": true,
+      "lab_name": "AIMLL"
+    },
+    "AD": {
+      "name": "Advanced Databases",
+      "code": "AD",
+      "type": "theory",
+      "hours_per_week": 4,
+      "faculties": ["Prof. Revati Raspayle", "Prof. Dr. Manisha Galphade", "Prof. Dr. Anant Kaulage"],
+      "requires_lab": true,
+      "lab_name": "ADL"
+    },
+    "PE_I_HCI": {
+      "name": "Professional Elective - I (Human Computer Interface)",
+      "code": "PE_I_HCI",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Amit Uttarkar"],
+      "requires_lab": false
+    },
+    "PE_I_CF": {
+      "name": "Professional Elective - I (Cloud Foundations)",
+      "code": "PE_I_CF",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Dr. Reena Gunjan"],
+      "requires_lab": false
+    },
+    "IDSL": {
+      "name": "Introduction to Data Science Laboratory",
+      "code": "IDSL",
+      "type": "lab",
+      "hours_per_week": 4,
+      "faculties": ["Prof. Jyoti Manoorkar", "Prof. Dr. Umar M Mulani"],
+      "requires_lab": true,
+      "duration": 2
+    },
+    "SCIL_PS": {
+      "name": "School of Corporate Innovation & Learning (Professional Skills)",
+      "code": "SCIL_PS",
+      "type": "seminar",
+      "hours_per_week": 1,
+      "faculties": ["Prof. Kiran Shinde"],
+      "requires_lab": false
+    },
+    "SCIL_APT": {
+      "name": "School of Corporate Innovation & Learning (Aptitude)",
+      "code": "SCIL_APT",
+      "type": "seminar",
+      "hours_per_week": 1,
+      "faculties": ["Prof. Kiran Shinde"],
+      "requires_lab": false
+    },
+    "ML": {
+      "name": "Machine Learning",
+      "code": "ML",
+      "type": "theory",
+      "hours_per_week": 4,
+      "faculties": ["Prof. Dr. Nilima Vijayrao Kulkarni"],
+      "requires_lab": true,
+      "lab_name": "MLL"
+    },
+    "DMA": {
+      "name": "Data Mining & Analytics",
+      "code": "DMA",
+      "type": "theory",
+      "hours_per_week": 4,
+      "faculties": ["Prof. Thanekar Sachin"],
+      "requires_lab": true,
+      "lab_name": "DMAL"
+    },
+    "ATCM": {
+      "name": "Automata Theory and Computational Models",
+      "code": "ATCM",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Dr. Tejaswini Bhosale"],
+      "requires_lab": false
+    },
+    "PE_I_IoT": {
+      "name": "Professional Elective - I (Internet of Things)",
+      "code": "PE_I_IoT",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Ravi Kumar"],
+      "requires_lab": false
+    },
+    "PE_I_ASD": {
+      "name": "Professional Elective - I (Advanced System Design)",
+      "code": "PE_I_ASD",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Deepika Singh"],
+      "requires_lab": false
+    },
+    "CF": {
+      "name": "Cloud Foundations",
+      "code": "CF",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Dr. Rajani Sangappa Sajjan"],
+      "requires_lab": true,
+      "lab_name": "CFL"
+    },
+    "DC": {
+      "name": "Dockers and Containers",
+      "code": "DC",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Ruchita Sharma"],
+      "requires_lab": true,
+      "lab_name": "DCL"
+    },
+    "PE_I_CIS": {
+      "name": "Professional Elective - I (Cryptography & Information Security)",
+      "code": "PE_I_CIS",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Smita Gumaste"],
+      "requires_lab": false
+    },
+    "PE_I_AIML": {
+      "name": "Professional Elective - I (AIML Applications)",
+      "code": "PE_I_AIML",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Dr. Suvarna Pawar"],
+      "requires_lab": false
+    },
+    "AWTL": {
+      "name": "Advanced Web Technology & Libraries",
+      "code": "AWTL",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Ashish Patel"],
+      "requires_lab": true,
+      "lab_name": "AWTLL"
+    },
+    "DS": {
+      "name": "Distributed Systems",
+      "code": "DS",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Dr. Ayesha Butalia"],
+      "requires_lab": true,
+      "lab_name": "DSSL"
+    },
+    "CDE": {
+      "name": "Cloud Data Engineering",
+      "code": "CDE",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Vilas Khedekar"],
+      "requires_lab": true,
+      "lab_name": "CDEL"
+    },
+    "PE_I_AGE": {
+      "name": "Professional Elective - I (Advanced Graphics & Engines)",
+      "code": "PE_I_AGE",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Nikhil Jadhav"],
+      "requires_lab": false
+    },
+    "CIS": {
+      "name": "Cryptography and Information Security",
+      "code": "CIS",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Smita Gumaste", "Prof. Arun Ghandat"],
+      "requires_lab": true,
+      "lab_name": "CISL"
+    },
+    "PE_I_WMS": {
+      "name": "Professional Elective - I (Web & Mobile Security)",
+      "code": "PE_I_WMS",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Sushant Shirbhate"],
+      "requires_lab": false
+    },
+    "PE_I_MLCS": {
+      "name": "Professional Elective - I (Machine Learning for Cybersecurity)",
+      "code": "PE_I_MLCS",
+      "type": "theory",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Dr. Suvarna Pawar"],
+      "requires_lab": false
+    },
+    "KLAL": {
+      "name": "Kerberos & Linux Access Lists",
+      "code": "KLAL",
+      "type": "lab",
+      "hours_per_week": 3,
+      "faculties": ["Prof. Sushant Shirbhate"],
+      "requires_lab": true,
+      "duration": 2
+    }
+  },
+  "faculties": {
+    "Prof. Revati Raspayle": {
+      "name": "Prof. Revati Raspayle",
+      "subjects": ["AD", "ADL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Dr. Suvarna Pawar": {
+      "name": "Prof. Dr. Suvarna Pawar",
+      "subjects": ["AIML", "AIMLL", "PE_I_AIML"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Dr. Rajendra Pawar": {
+      "name": "Prof. Dr. Rajendra Pawar",
+      "subjects": ["AIML", "AIMLL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Swati Powar": {
+      "name": "Prof. Swati Powar",
+      "subjects": ["AIML", "AIMLL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Amit Uttarkar": {
+      "name": "Prof. Amit Uttarkar",
+      "subjects": ["PE_I_HCI"],
+      "max_hours_per_day": 6,
+      "unavailable_slots": []
+    },
+    "Prof. Dr. Reena Gunjan": {
+      "name": "Prof. Dr. Reena Gunjan",
+      "subjects": ["PE_I_CF"],
+      "max_hours_per_day": 6,
+      "unavailable_slots": []
+    },
+    "Prof. Jyoti Manoorkar": {
+      "name": "Prof. Jyoti Manoorkar",
+      "subjects": ["IDSL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Dr. Umar M Mulani": {
+      "name": "Prof. Dr. Umar M Mulani",
+      "subjects": ["IDSL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Dr. Manisha Galphade": {
+      "name": "Prof. Dr. Manisha Galphade",
+      "subjects": ["AD", "ADL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Dr. Anant Kaulage": {
+      "name": "Prof. Dr. Anant Kaulage",
+      "subjects": ["AD", "ADL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Kiran Shinde": {
+      "name": "Prof. Kiran Shinde",
+      "subjects": ["SCIL_PS", "SCIL_APT"],
+      "max_hours_per_day": 6,
+      "unavailable_slots": []
+    },
+    "Prof. Dr. Nilima Vijayrao Kulkarni": {
+      "name": "Prof. Dr. Nilima Vijayrao Kulkarni",
+      "subjects": ["ML", "MLL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Thanekar Sachin": {
+      "name": "Prof. Thanekar Sachin",
+      "subjects": ["DMA", "DMAL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Dr. Tejaswini Bhosale": {
+      "name": "Prof. Dr. Tejaswini Bhosale",
+      "subjects": ["ATCM"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Ravi Kumar": {
+      "name": "Prof. Ravi Kumar",
+      "subjects": ["PE_I_IoT"],
+      "max_hours_per_day": 5,
+      "unavailable_slots": []
+    },
+    "Prof. Deepika Singh": {
+      "name": "Prof. Deepika Singh",
+      "subjects": ["PE_I_ASD"],
+      "max_hours_per_day": 5,
+      "unavailable_slots": []
+    },
+    "Prof. Dr. Rajani Sangappa Sajjan": {
+      "name": "Prof. Dr. Rajani Sangappa Sajjan",
+      "subjects": ["CF", "CFL"],
+      "max_hours_per_day": 5,
+      "unavailable_slots": []
+    },
+    "Prof. Ruchita Sharma": {
+      "name": "Prof. Ruchita Sharma",
+      "subjects": ["DC", "DCL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Smita Gumaste": {
+      "name": "Prof. Smita Gumaste",
+      "subjects": ["CIS", "CISL", "PE_I_CIS"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Arun Ghandat": {
+      "name": "Prof. Arun Ghandat",
+      "subjects": ["CIS", "CISL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Ashish Patel": {
+      "name": "Prof. Ashish Patel",
+      "subjects": ["AWTL", "AWTLL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Dr. Ayesha Butalia": {
+      "name": "Prof. Dr. Ayesha Butalia",
+      "subjects": ["DS", "DSSL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Vilas Khedekar": {
+      "name": "Prof. Vilas Khedekar",
+      "subjects": ["CDE", "CDEL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Nikhil Jadhav": {
+      "name": "Prof. Nikhil Jadhav",
+      "subjects": ["PE_I_AGE"],
+      "max_hours_per_day": 5,
+      "unavailable_slots": []
+    },
+    "Prof. Sushant Shirbhate": {
+      "name": "Prof. Sushant Shirbhate",
+      "subjects": ["PE_I_WMS", "KLAL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    },
+    "Prof. Sumedha Ayachit": {
+      "name": "Prof. Sumedha Ayachit",
+      "subjects": ["AIML", "AIMLL"],
+      "max_hours_per_day": 4,
+      "unavailable_slots": []
+    }
+  },
+  "rooms": {
+    "S111": {
+      "type": "classroom",
+      "capacity": 60,
+      "facilities": ["projector", "whiteboard"]
+    },
+    "S403": {
+      "type": "classroom",
+      "capacity": 60,
+      "facilities": ["projector", "whiteboard"]
+    },
+    "S410": {
+      "type": "classroom",
+      "capacity": 55,
+      "facilities": ["projector", "whiteboard"]
+    },
+    "S420": {
+      "type": "classroom",
+      "capacity": 50,
+      "facilities": ["projector", "whiteboard"]
+    },
+    "S516": {
+      "type": "classroom",
+      "capacity": 60,
+      "facilities": ["projector", "whiteboard"]
+    },
+    "S621": {
+      "type": "classroom",
+      "capacity": 55,
+      "facilities": ["projector", "whiteboard"]
+    },
+    "N511": {
+      "type": "lab",
+      "capacity": 70,
+      "facilities": ["computer", "projector"]
+    },
+    "N513": {
+      "type": "lab",
+      "capacity": 70,
+      "facilities": ["computer", "projector"]
+    },
+    "LAB1": {
+      "type": "lab",
+      "capacity": 70,
+      "facilities": ["computer", "projector"]
+    },
+    "LAB2": {
+      "type": "lab",
+      "capacity": 70,
+      "facilities": ["computer", "projector"]
+    }
+  },
+  "constraints": {
+    "online_days": {
+      "Monday": ["CSE_TY1", "CSE_TY2", "CSE_TY3"],
+      "Tuesday": ["CSE_TY4", "AIA_TY7"],
+      "Wednesday": ["CC_TY16", "BDCE_TY20"]
+    },
+    "special_slots": {
+      "Monday": {
+        "03:40-04:30": "Mentor Meeting"
+      },
+      "Tuesday": {
+        "10:00-12:00": "Industry Practices & Professional Skills"
+      },
+      "Wednesday": {
+        "08:45-09:40": "PBL Review"
+      },
+      "Friday": {
+        "02:35-03:30": "Doubt Solving"
+      },
+      "Saturday": {
+        "08:45-09:40": "PBL Review",
+        "09:40-10:35": "PAL"
+      }
+    },
+    "lunch_break": "12:40-01:40",
+    "short_breaks": ["10:35-10:50", "03:30-03:40"],
+    "working_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    "max_hours_per_day": 7,
+    "max_consecutive_theory": 3
+  }
+}

@@ -1,0 +1,135 @@
+{
+    "classes": {
+        "CSE_TY1": {
+            "name": "Computer Science TY1",
+            "subjects": ["DBMS", "SE", "CN", "TOC", "AIML"],
+            "class_teacher": "Dr. John Doe",
+            "strength": 60
+        },
+        "CSE_TY2": {
+            "name": "Computer Science TY2",
+            "subjects": ["DBMS", "SE", "CN", "TOC", "AIML"],
+            "class_teacher": "Dr. Jane Smith",
+            "strength": 55
+        },
+        "IT_TY1": {
+            "name": "Information Technology TY1",
+            "subjects": ["DBMS", "SE", "CN", "AIML", "OS"],
+            "class_teacher": "Dr. Alan Cooper",
+            "strength": 58
+        },
+        "AI_TY1": {
+            "name": "Artificial Intelligence TY1",
+            "subjects": ["AIML", "DL", "CN", "SE", "DBMS"],
+            "class_teacher": "Dr. Clara Ray",
+            "strength": 52
+        },
+        "ENTC_TY1": {
+            "name": "Electronics TY1",
+            "subjects": ["DSD", "CN", "SE", "AIML", "TOC"],
+            "class_teacher": "Dr. Amit Shah",
+            "strength": 50
+        }
+    },
+
+    "subjects": {
+        "DBMS": {
+            "name": "Database Management Systems",
+            "type": "theory",
+            "hours_per_week": 4,
+            "faculties": ["Dr. A", "Dr. B"],
+            "requires_lab": true
+        },
+        "SE": {
+            "name": "Software Engineering",
+            "type": "theory",
+            "hours_per_week": 4,
+            "faculties": ["Dr. C", "Dr. D"],
+            "requires_lab": false
+        },
+        "CN": {
+            "name": "Computer Networks",
+            "type": "theory",
+            "hours_per_week": 3,
+            "faculties": ["Dr. E", "Dr. F"],
+            "requires_lab": true
+        },
+        "TOC": {
+            "name": "Theory of Computation",
+            "type": "theory",
+            "hours_per_week": 3,
+            "faculties": ["Dr. G"],
+            "requires_lab": false
+        },
+        "AIML": {
+            "name": "Artificial Intelligence and Machine Learning",
+            "type": "theory",
+            "hours_per_week": 4,
+            "faculties": ["Dr. H", "Dr. I"],
+            "requires_lab": true
+        },
+        "OS": {
+            "name": "Operating Systems",
+            "type": "theory",
+            "hours_per_week": 3,
+            "faculties": ["Dr. J"],
+            "requires_lab": true
+        },
+        "DL": {
+            "name": "Deep Learning",
+            "type": "theory",
+            "hours_per_week": 3,
+            "faculties": ["Dr. K"],
+            "requires_lab": true
+        },
+        "DSD": {
+            "name": "Digital System Design",
+            "type": "theory",
+            "hours_per_week": 3,
+            "faculties": ["Dr. L"],
+            "requires_lab": false
+        }
+    },
+
+    "faculties": {
+        "Dr. A": {"subjects": ["DBMS"], "max_hours_per_day": 6, "unavailable_slots": []},
+        "Dr. B": {"subjects": ["DBMS"], "max_hours_per_day": 6, "unavailable_slots": []},
+        "Dr. C": {"subjects": ["SE"], "max_hours_per_day": 6, "unavailable_slots": ["Monday-08:45-09:40"]},
+        "Dr. D": {"subjects": ["SE"], "max_hours_per_day": 6, "unavailable_slots": []},
+        "Dr. E": {"subjects": ["CN"], "max_hours_per_day": 6, "unavailable_slots": []},
+        "Dr. F": {"subjects": ["CN"], "max_hours_per_day": 6, "unavailable_slots": ["Wednesday-10:35-11:30"]},
+        "Dr. G": {"subjects": ["TOC"], "max_hours_per_day": 6, "unavailable_slots": []},
+        "Dr. H": {"subjects": ["AIML"], "max_hours_per_day": 6, "unavailable_slots": []},
+        "Dr. I": {"subjects": ["AIML"], "max_hours_per_day": 6, "unavailable_slots": []},
+        "Dr. J": {"subjects": ["OS"], "max_hours_per_day": 6, "unavailable_slots": []},
+        "Dr. K": {"subjects": ["DL"], "max_hours_per_day": 6, "unavailable_slots": []},
+        "Dr. L": {"subjects": ["DSD"], "max_hours_per_day": 6, "unavailable_slots": []}
+    },
+
+    "rooms": {
+        "S403": {"type": "classroom", "capacity": 60, "facilities": ["projector", "whiteboard"]},
+        "S404": {"type": "classroom", "capacity": 60, "facilities": ["projector", "whiteboard"]},
+        "LAB1": {"type": "lab", "capacity": 30, "facilities": ["computers", "projector"]},
+        "LAB2": {"type": "lab", "capacity": 30, "facilities": ["computers", "projector"]},
+        "N511": {"type": "classroom", "capacity": 55, "facilities": ["projector", "whiteboard"]},
+        "N512": {"type": "classroom", "capacity": 50, "facilities": ["projector", "whiteboard"]}
+    },
+
+    "constraints": {
+        "online_days": {
+            "Wednesday": ["CSE_TY1", "CSE_TY2"],
+            "Thursday": ["AI_TY1", "IT_TY1"]
+        },
+        "special_slots": {
+            "Monday": {"03:40-04:30": "Mentor Meeting"},
+            "Friday": {"03:40-04:30": "NPTEL"},
+            "Saturday": {
+                "08:45-09:40": "PBL Review",
+                "09:40-10:35": "PAL"
+            }
+        },
+        "max_hours_per_day": 7,
+        "max_consecutive_theory": 3,
+        "lunch_break": "12:40-01:40"
+    }
+}
